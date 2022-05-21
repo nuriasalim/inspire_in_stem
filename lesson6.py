@@ -8,7 +8,7 @@ plate_number = ['H1234' , 'Y1234' , 'S1234']
 #accessing list items using the index
 #print(motorcycle[2])
 
-#print(motorcyvle[3]) -> cannot shot this since its not within the range
+#print(motorcyvle[3]) -> cannot show this since its not within the range
 
 #motorcycle[0]= "Bugatti"-> replacing items in the list -> index 0 is the first elemt-. honda
 
@@ -17,7 +17,7 @@ plate_number = ['H1234' , 'Y1234' , 'S1234']
 #motorcycle[0]= "Bugatti"
 #print(motorcycle)
 
-#print("i love"+  str(motorcycle[1]))
+print("i love"+  str(motorcycle[1]))
 
 #adding element in a list
 #motorcycle.append('Bugatti') 

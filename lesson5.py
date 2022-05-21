@@ -5,7 +5,6 @@
 
 from types import MethodDescriptorType
 
-
 name = "Nuria Salim"
 age = 20
 user_name = "Ada Lovelace"

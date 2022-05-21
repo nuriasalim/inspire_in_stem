@@ -26,6 +26,18 @@ lower()
 upper()
 slice()
 
+Day 3: Rules in variables
+#lists -> accessing list items using index
+    -> adding items to list
+    ->deleting items in list
+    -> replacing items in list
+#loops
+.append()
+.remove()
+.del()
+.pop()
+
+
 
 ## Week Two : Electronics for Innovators 
 
