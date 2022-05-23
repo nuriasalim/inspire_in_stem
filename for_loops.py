@@ -14,13 +14,20 @@ for number in range(0,9):
     print(number)
     print("\t")
     
-    print(number**2)
+    #print(number**2)
 
 #assignment: Print a diamond of stars, a pyramid of stars
 
-print(" *")
-print("* *")
-print("* * *")
-print("* * * *")
+print       ("      * ")
+print       ("     * *   ")
+print     ("    * * *   ")
+print    ("   * * * *    ")
 
+print       ("      * ")
+print       ("     * *   ")
+print     ("    * * *   ")
+print    ("   * * * *    ")
+print     ("    * * *   ")
+print       ("     * *   ")
+print       ("      * ")
 
