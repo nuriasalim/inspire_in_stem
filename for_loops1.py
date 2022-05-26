@@ -8,13 +8,13 @@
 
 #for i in 1, 100:
     #print(i)
-print("Number\tSquare")
-print("===============")
+#print("Number\tSquare")
+#print("===============")
 for number in range(0,9):
     print(number)
     print("\t")
     
-    #print(number**2)
+    print(number**2)
 
 #assignment: Print a diamond of stars, a pyramid of stars
 

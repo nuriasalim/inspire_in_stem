@@ -1,3 +1,10 @@
+#1/usr/bin/python
+
+###########################
+#      #loops
+#      Name: Nuria
+#      Date: 20/05/22
+############################
 #about loops
 
 school=['Joy' , 'Hope' , 'Mercy' ,'Happy']
@@ -16,7 +23,7 @@ pupil= ['Peace' , 'Patience' , 'Amani' , 'Character']
 #how to make the above lines into one code line by using loops
 
 for pupil in pupil: 
-    print(f'Hello I am pupil {pupil}')
+    print(f'Hello I am {pupil}')
 
 for school in school:
     print(f'My school is {school}')

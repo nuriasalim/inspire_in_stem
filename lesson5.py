@@ -1,3 +1,12 @@
+#1/usr/bin/python
+
+###########################
+#      #string methods
+#      Name: Nuria
+#      Date: 19/05/22
+############################
+
+
 #string methods
 #methods are in built functions used to work on all the different data types
 #\n is used to add new lines

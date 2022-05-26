@@ -26,6 +26,11 @@ lower()
 upper()
 slice()
 
+Day 2:
+->Python data types and sring methods
+->Building a small calculator
+
+
 Day 3: Rules in variables
 #lists -> accessing list items using index
     -> adding items to list
@@ -36,10 +41,50 @@ Day 3: Rules in variables
 .remove()
 .del()
 .pop()
+-> learning string operations and data-type interconversion
 
 
 
-## Week Two : Electronics for Innovators 
+## Week Two : Electronics for Innovators
+Day 6: 
+-> Advance If statements
+-> Loops and For loops
+-> Lists
+-> Indexes
+-> Nested lists
+-> Strings as lists
+-> Errors; syntax(prob with the code; grammar), indentation (prob with spacing),
+
+Day 7:
+-> Foor Loops
+-> Ranges
+-> dictionaries
+-> looping through strings
+
+Day 8:
+-> Lists methods
+-> Sets
+-> Tuples
+-> Functions
+
+Git commands
+-> git add * or git add lesson 4
+-> git commit -m"lesson title"
+-> git push
+
+Day 9
+->If statements review
+->using for loops to create if statements
+->data structures: lists
+-> Dictionaries
+-> syntax for dictionaries
+-> Defining a list
+-> Adding into a list
+-> Removing , Looping over dictionaries
+-> Having a list inside a dictionary ;a dictionary inside a list; a dictionary in dictionary
+
+
+
 
 ## Week Three : Inroduction to Robotics
 

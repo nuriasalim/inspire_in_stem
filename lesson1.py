@@ -1,3 +1,13 @@
+#1/usr/bin/python
+
+###########################
+#      Python basics
+#      Name: Nuria
+#      Date: 17/05/22
+############################
+
+
+
 print("hello there")
 
 #python basics
