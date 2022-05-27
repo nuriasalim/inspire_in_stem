@@ -23,7 +23,7 @@ student["id no"] ="32940966"
 student["hobby"] = "photography"
 student["club"] = "Liverpool"
 
-print(student)
+#print(student)
 
 student ["fav food"] = "Chapati"
 student ["best sport"] ="Tennis" 
@@ -45,12 +45,12 @@ del student['hobby']
 colors = {'Color':'Red'}
 list_names = {'name':'Nuria'}
 vehicle= {'Type':'Toyota', 'plate_number':'KY456'}
-print(colors)
+#print(colors)
 #printing using the type[] method
-print(list_names ['name'])
-print(vehicle ['Type'])
+#print(list_names ['name'])
+#print(vehicle ['Type'])
 
-#accessing only values in a dictionary by using the key
+#......Accessing only values in a dictionary by using the key
 #You can access the value of an element inside a dictionary using the 'key': e.g
 print(vehicle['Type'])
 print(vehicle['Type'], vehicle['plate_number'])
@@ -59,9 +59,6 @@ person = {'name': 'Nuria'}
 location = {'address':'Nairobi'}
 print(person['name'], location['address'])
 
-person ={'name':'Nuria','gender':'female','phone_number':'3456', 'location':'nairobi'}
-print(person)
-print(person['name'], person['gender'], person['phone_number'])
 
 #adding a value -> dictionary ["key"] = "value"
 person ["Age"] = "23"
@@ -93,7 +90,7 @@ while i < len(colors):
     if(colors[0] == 'red'):
         print(colors[0].upper())
         i += 1   #this closes the loop, so that the value is not run so many times
-
+i= 0
 for color in colors:
     if(colors[0] =="red"):
         print(colors[0].upper())
