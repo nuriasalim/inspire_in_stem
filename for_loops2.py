@@ -27,3 +27,17 @@ for pupil in pupil:
 
 for school in school:
     print(f'My school is {school}')
+
+# Example 3
+
+
+vehicles = ['bmw', 'audi' , 'toyota' , 'mercedes' , 'jeep']
+#using If statement find jeep in the list and convert to uppercase
+#using for loops to print vehicles
+
+for vehicle in vehicles:
+   
+   print(vehicle.title())
+if (vehicle == 'jeep'):
+       print(vehicle.upper())
+    
