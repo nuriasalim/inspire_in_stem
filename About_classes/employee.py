@@ -1,3 +1,4 @@
+#assignment
 #create employee class, inside it have 2 funtions;employee name and employee salary
 
 class Employee:

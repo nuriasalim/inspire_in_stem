@@ -48,7 +48,7 @@ def multiply_numbers (x,y):
     print("The product of numbers is:" , multiply_numbers)
 multiply_numbers(5,6)
 
-#function divinde two numbers
+#function divide two numbers
 def quotient_num (x ,y):
     quotient_num = x / y 
     print("The quotient of numbers is:" , quotient_num)

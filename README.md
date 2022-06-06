@@ -83,11 +83,16 @@ Day 9
 -> Removing , Looping over dictionaries
 -> Having a list inside a dictionary ;a dictionary inside a list; a dictionary in dictionary
 
-
-
-
 ## Week Three : Inroduction to Robotics
-
+31st July 
+-> Quadratic Expression
+-> Fucnctions
+    intialize the function
+    calling the function
+    defining a function/ initializing
+    Adding, Multiply
+-> Tuples
+    
 ## Week Four : JavaScript , css , html
 
 ## Week Five : Design Thinking, UX , UI
